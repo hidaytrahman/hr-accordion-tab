@@ -46,7 +46,7 @@ Responsive Accordion tab, easy to use with best customizable option, and free to
 
 ### Demo 2 : [Expend single tab](https://hidaytrahman.github.io/hr-accordion-tab/examples/example-expend-single-tab.html)
 
-If you like my work [buy me a cup of coffee](https://www.paypal.me/hidaytrahman/3) to show support 😊
+##### If you like my work [buy me a cup of coffee](https://www.paypal.me/hidaytrahman/3) to show support 😊
 -----
 
 ### About Author

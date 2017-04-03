@@ -1,0 +1,87 @@
+.main-wrapper{max-width:1200px; margin:0px auto; text-align: center;}
+
+/*Accordion Style*/
+.hr-accordion-wrapper {
+    font-family: arial;
+    max-width: 640px;
+	margin: 0px auto; /*Remove if you don't want it in center */
+	
+}
+.hr-accordion-wrapper .each-acc-row{}
+.hr-accordion-wrapper .accordion-title {
+    font-size: 19px;
+    margin: 0;
+    padding: 9px 10px;
+    position: relative;
+    font-weight: 100;
+	background: #ffffff;
+    color: #352f2f;
+    border-bottom: 2px solid #fbfbfb;
+    box-shadow: -4px 2px 8px -1px grey;
+}
+
+}
+
+.hr-accordion-wrapper .accordion-title span.title{}
+.hr-accordion-wrapper .accordion-title span.collapse-icon{
+    color: #fff;
+    padding: 5px 10px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    background: url(../images/icon-plus.png) no-repeat;
+    height: 30px;
+    width: 15px;
+    background-color: #EFEFEF;
+    background-size: 27px;
+    background-position: 3px; cursor:pointer;}
+
+.hr-accordion-wrapper .accordion-content {
+    margin: 0;
+    padding: 5px 10px;
+    display: none;
+}
+
+.hr-accordion-wrapper .accordion-content p{ font-size: 14px;}
+.hr-accordion-wrapper .accordion-content .mytitle {
+    padding: 0;
+    margin: 7px 0;
+    font-size: 20px;
+    text-transform: uppercase;
+    text-align: center;
+    border-bottom: 1px solid whitesmoke;
+    padding-bottom: 5px;
+}
+
+.hr-accordion-wrapper .each-acc-row.active-acc{}
+.hr-accordion-wrapper .each-acc-row.active-acc .accordion-title {
+	background: #ffffff;
+    color: #352f2f;
+    box-shadow: -4px 2px 8px -1px grey;
+	-webkit-box-shadow: -4px 2px 8px -1px grey;
+	-moz-box-shadow: -4px 2px 8px -1px grey;
+	-o-box-shadow: -4px 2px 8px -1px grey;
+	-ms-box-shadow: -4px 2px 8px -1px grey;
+	border-bottom: 2px solid #b50000;
+}
+
+.hr-accordion-wrapper .each-acc-row.active-acc .accordion-content {
+    border: 1px solid #E2E2E2;
+    margin-bottom: 10px;
+}
+
+.hr-accordion-wrapper .each-acc-row.active-acc .accordion-title span.collapse-icon {
+    background: url(../images/icon-close.png) no-repeat;
+	background-color:#FFF;
+    height: 30px;
+    width: 15px;
+    background-size: 27px;
+    background-position: 3px;
+	box-shadow: 5px 2px 9px #c5c3c3;
+	-webkit-box-shadow: 5px 2px 9px #c5c3c3;
+	-moz-box-shadow: 5px 2px 9px #c5c3c3;
+	-o-box-shadow: 5px 2px 9px #c5c3c3;
+	-ms-box-shadow: 5px 2px 9px #c5c3c3;
+}
+	
+

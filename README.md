@@ -50,4 +50,5 @@ Responsive Accordion tab, easy to use with best customizable option, and free to
 
 ### About Author
 #### [Hidayt Rahman](https://hidaytrahman.github.io)
+<img src="http://3.bp.blogspot.com/-P6zv8mcaGNg/VNmu3WS2jVI/AAAAAAAAAtI/TQWuAqRjoho/s1600/10636338_824524644274055_5472924459450144007_n.jpg" height="200">
 ##### Specialization in Front-end Development - with love of HTML5, CSS3, Bootstrap, JQuery / JavaScript, LESS / SASS, jQuery Plugin Development, WordPress, JSON, OOJS, Angular JS

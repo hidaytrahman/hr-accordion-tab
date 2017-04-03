@@ -1,37 +1,61 @@
-## Welcome to GitHub Pages
+## Welcome to HR Accordion Tab
 
-You can use the [editor on GitHub](https://github.com/hidaytrahman/hr-accordion-tab/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Responsive Accordion tab, easy to use with best customizable option, and free to use.
 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+### Features
+- Responsive  - All devices compatible
+- All Major Browser Compatible
+- Extend Multiple Tabs / or Single Tab at a time
+- Animated Accordion
+- Lightweight JS only (1.6kb)
+
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+######Include these files on <head>
+```html
+<link rel="stylesheet" href="css/hr.accordion.min.css">
+<script src="js/1.11.2.jquery.min.js"> </script>
+<script src="js/hr-accordion.min.js"> </script>
+```
+###### Add HTML Structures
+```html
+<div class="hr-accordion-wrapper">
+	  <div class="each-acc-row">
+		<div class="accordion-title"><span class="title">Your title here</span></div>
+		<div class="accordion-content"> Your content here	</div>
+	  </div>
+	  <div class="each-acc-row">
+		<div class="accordion-title"><span class="title">Your title here</span></div>
+		<div class="accordion-content"> Your content here	</div>
+	  </div>
+</div>
+```
+	
+###jQuery
+```javascript
+	$(".example1").hrAccordion({ 
+		multiple : true, //true,false
+		title : true,
+		event : 'click', // click, 'mouseover' or any JS events
+		speed : 800 // slow, medium, fast, or in milliseconds
+	});
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+```
 
-### Jekyll Themes
+# Examples :
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hidaytrahman/hr-accordion-tab/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Demo 1 : [Expend multiple tabs](https://hidaytrahman.github.io/hr-accordion-tab/examples/example-expend-multiple-tabs.html)
 
-### Support or Contact
+## Demo 2 : [Expend single tab](https://hidaytrahman.github.io/hr-accordion-tab/examples/example-expend-single-tab.html)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+d ![Image](src)
+
+
+### About Author
+####[Hidayt Rahman](https://hidaytrahman.github.io)
+##### Specialization in Front-end Development - with love of HTML5, CSS3, Bootstrap, JQuery / JavaScript, LESS / SASS, jQuery Plugin Development, WordPress, JSON, OOJS, Angular JS
+

@@ -47,10 +47,11 @@ Responsive Accordion tab, easy to use with best customizable option, and free to
 ### Demo 2 : [Expend single tab](https://hidaytrahman.github.io/hr-accordion-tab/examples/example-expend-single-tab.html)
 
 ##### If you like my work [buy me a cup of coffee](https://www.paypal.me/hidaytrahman/3) to show support 😊
+
 -----
 
-### About Author
+## About Author
 #### [Hidayt Rahman](https://hidaytrahman.github.io)
-<img src="http://3.bp.blogspot.com/-P6zv8mcaGNg/VNmu3WS2jVI/AAAAAAAAAtI/TQWuAqRjoho/s1600/10636338_824524644274055_5472924459450144007_n.jpg" height="200">
+[<img src="http://3.bp.blogspot.com/-P6zv8mcaGNg/VNmu3WS2jVI/AAAAAAAAAtI/TQWuAqRjoho/s1600/10636338_824524644274055_5472924459450144007_n.jpg" height="200" alt="Hidayt Rahman">](https://hidaytrahman.github.io)
 
 ##### Specialization in Front-end Development - with love of HTML5, CSS3, Bootstrap, JQuery / JavaScript, LESS / SASS, jQuery Plugin Development, WordPress, JSON, OOJS, Angular JS
